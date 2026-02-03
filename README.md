@@ -9,10 +9,11 @@ Planning a trip often involves hours of manual research across multiple websites
 
 This application is a prime example of an AI-assisted workflow. It leverages Large Language Models (LLMs) to:
 
-•	Synthesize Information: It processes natural language inputs (interests and constraints) to generate a cohesive, multi-day plan.
+•	**Synthesize Information:** It processes natural language inputs (interests and constraints) to generate a cohesive, multi-day plan.
 
-•	Contextual Reasoning: The AI acts as a "Travel Planner," applying logic to ensure that "guardrails" (e.g., wheelchair accessibility or dietary needs) are strictly followed throughout the itinerary.
-•	Automated Content Transformation: It converts unstructured user preferences into structured Markdown and professional PDF documents.
+•	**Contextual Reasoning:** The AI acts as a "Travel Planner," applying logic to ensure that "guardrails" (e.g., wheelchair accessibility or dietary needs) are strictly followed throughout the itinerary.
+
+•	**Automated Content Transformation:** It converts unstructured user preferences into structured Markdown and professional PDF documents.
 
 
 **What the Code Does**
