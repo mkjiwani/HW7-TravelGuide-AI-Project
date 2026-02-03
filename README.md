@@ -33,7 +33,10 @@ To run this project locally, follow these steps:
 
 **Security & Safe Sharing**
 IMPORTANT: To maintain security and protect sensitive information:
+
 •	No API Keys: The OPENAI_API_KEY is managed via a .env file which is not included in this repository.
+
 •	Gitignore: A .gitignore file should be used to ensure .env and other local configuration files are never uploaded to GitHub.
+
 •	No Private Data: This script does not store or transmit personal user data beyond the session requirements for the OpenAI API.
 
